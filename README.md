@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there I'm Josh! 👋
+
+I am a degree taught Computer Scientist specialising in Artificial Intellegance at Royal Holloway, University of London. I am passionate about the open-source community and love working on new and interesting projects. Some of the languages I use include Java, Javascript, C-Family Languages, Prolog & LISP. I also develop using frameworks such as React, Vue and Angular.  
+
+## Find me around the internet 🌍
+- Find me on <a href="https://www.reddit.com/user/65-bit">Reddit</a> 
+- Find me on <a href="https://www.linkedin.com/in/joshua-yewman/">LinkedIn</a>
+
+## What I'm currently working on 🔭
+- Multi Dimentional Data Processing with Spyder & Python w NumPy
+- Big Data processing for the Property Development Sector with Java
 
 <!--
 **JYewman/JYewman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
