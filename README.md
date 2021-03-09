@@ -5,10 +5,10 @@ I am a degree taught Computer Scientist specialising in Artificial Intellegance 
 ## Find me around the internet 🌍
 - Find me on <a href="https://www.reddit.com/user/65-bit">Reddit</a> 
 - Find me on <a href="https://www.linkedin.com/in/joshua-yewman/">LinkedIn</a>
+- Find me on <a href="http://joshuayewman.co.uk">My Website</a>
 
 ## What I'm currently working on 🔭
 - Multi Dimentional Data Processing with Spyder & Python w NumPy
-- Big Data processing for the Property Development Sector with Java
 
 <!--
 **JYewman/JYewman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
