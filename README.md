@@ -1,4 +1,4 @@
-### Hi there I'm Josh! 👋
+### Hi there, I'm Josh! 👋
 
 I am a degree taught Computer Scientist specialising in Artificial Intellegance at Royal Holloway, University of London. I am passionate about the open-source community and love working on new and interesting projects. Some of the languages I use include Java, Javascript, C-Family Languages, Prolog & LISP. I also develop using frameworks such as React, Vue and Angular.  
 
@@ -9,6 +9,8 @@ I am a degree taught Computer Scientist specialising in Artificial Intellegance 
 
 ## What I'm currently working on 🔭
 - Multi Dimentional Data Processing with Spyder & Python w NumPy
+- Microcontroller Integration with existing Controller Area Networks
+- Controller Area Network Security
 
 <!--
 **JYewman/JYewman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
